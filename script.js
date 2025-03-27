@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Sound-Zuordnung: Button-ID → Sound-Datei
     const sounds = {
-        "was": "sounds/Waaas.wav",
-        "goal": "sounds/GOOOOL.wav",
-        "arda": "sounds/Ardaa.wav",
-        "nixKapieren": "sounds/IchNixKapieren.wav"
+        "was": "Waaas2.mp3",
+        "goal": "GOOOOL.wav",
+        "arda": "Ardaa.wav",
+        "nixKapieren": "IchNixKapieren.wav"
     };
 
     // Für jeden Button ein Event-Listener setzen
