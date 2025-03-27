@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Sound-Zuordnung: Button-ID → Sound-Datei
     const sounds = {
-        "was": "Waaas2.mp3",
+        "was": "Waaas.wav",
         "goal": "GOOOOL.wav",
         "arda": "Ardaa.wav",
         "nixKapieren": "IchNixKapieren.wav"
